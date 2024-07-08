@@ -71,7 +71,20 @@
 
 
 // 5 - masala
-
+// function nume(){
+//     let nums = [2,7,11,15]
+//     let target = 9
+//     let result = []
+//     for(let i = 0; i < nums.length; i++){
+//         for(let g = 0; g < nums.length; g++){
+//             if (nums[i] + nums[g] === target) {
+//                 result.push(nums[i], nums[g])
+//             }
+//         }
+//     }
+//    console.log(result);
+// }
+// nume()
 
 
 // 6 - masala
